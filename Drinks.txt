@@ -4,3 +4,5 @@ Soda
 Juice
 Whiskey
 Rum
+
+Corona
