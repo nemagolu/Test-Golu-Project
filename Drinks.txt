@@ -3,3 +3,4 @@ Wine
 Soda
 Juice
 Whiskey
+Rum
