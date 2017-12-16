@@ -1,0 +1,6 @@
+Beer
+Wine
+Soda
+Juice
+Whiskey
+Rum
