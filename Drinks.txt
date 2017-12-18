@@ -1,2 +1,3 @@
 console.log("Would you like to drink");
 console.log("Would you like to drink corona");
+console.log("Would you like to drink coors");
