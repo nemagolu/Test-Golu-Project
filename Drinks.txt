@@ -1,9 +1,1 @@
-Beer
-Wine
-Soda
-Juice
-Whiskey
-Rum
-
-Corona
-Stellar
+console.log("Would you like to drink");
